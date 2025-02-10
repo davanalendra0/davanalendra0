@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi there! 👋<br>I'm Dava Nalendra, an enthusiastic student who is passionate about exploring the world of technology. Although I don't have any professional experience yet, I actively create personal projects as practice and a way to develop my skills. Currently, I'm focused on continuing to develop myself and looking for new opportunities to collaborate. Let's make friends and work together!
 
 
 ## 🌐 Socials:
