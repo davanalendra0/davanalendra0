@@ -1,5 +1,3 @@
-<img align="center" alt="Hello" width="400" src="https://dribbble.com/shots/3843460-hello-gif">
-
 # 💫 About Me:
 Hi there! 👋<br>I'm Dava Nalendra from Indonesia, an enthusiastic student who is passionate about exploring the world of technology. Although I don't have any professional experience yet, I actively create personal projects as practice and a way to develop my skills. Currently, I'm focused on continuing to develop myself and looking for new opportunities to collaborate. Let's make friends and work together!
 
