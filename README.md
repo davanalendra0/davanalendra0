@@ -14,7 +14,7 @@
 
 <h3 align="center">My Github's Stats</h3>
 <hr>
-<p align="justify">
+<p align-content="space-around">
  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=davanalendra0&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davanalendra0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   
