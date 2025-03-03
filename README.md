@@ -15,9 +15,8 @@
 <h3 align="center">My Github's Stats</h3>
 <hr>
 <p justify-content="space-around">
- <img height="100%" src="https://github-readme-stats.vercel.app/api?username=davanalendra0&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davanalendra0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  
+ <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davanalendra0&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&include_all_commits=true&count_private=true"/>
+  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davanalendra0&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
 </p>
 <hr>
 
