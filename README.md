@@ -9,6 +9,8 @@
   <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davanalendra0&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
 </p>
 
+<br>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
