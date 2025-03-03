@@ -1,7 +1,7 @@
 <h3 align="center">About Me</h3>
 
 <hr>
-<p align="justify">Hi! I'm Dava Nalendra from Indonesia, an enthusiastic student who is passionate about exploring the world of technology. Although I don't have any professional experience yet, I actively create personal projects as practice and a way to develop my skills. Currently, I'm focused on continuing to develop myself and looking for new opportunities to collaborate. Let's make friends and work together! </p>
+<p align="justify">Hi! I'm Dava Nalendra from Indonesia and I'm a Front End Web Developer, an enthusiastic student who is passionate about exploring the world of technology. Although I don't have any professional experience yet, I actively create personal projects as practice and a way to develop my skills. Currently, I'm focused on continuing to develop myself and looking for new opportunities to collaborate. Let's make friends and work together! </p>
 
 
 <h3 align="center">Language and Tools</h3>
