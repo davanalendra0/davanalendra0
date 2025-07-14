@@ -4,10 +4,6 @@
 <p align="justify">Hi! i'm Dava Nalendra from Indonesia and i'm a front end web developer, an enthusiastic student who is passionate about exploring the world of technology. Although i don't have any professional experience yet, i actively create personal projects as practice and a way to develop my skills. Currently, i'm focused on continuing to develop myself and looking for new opportunities to collaborate. Let's make friends and work together! </p>
 
 <hr>
-<p justify-content="space-around">
- <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davanalendra0&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&include_all_commits=true&count_private=true"/>
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davanalendra0&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
-</p>
 
 <br>
 <br>
