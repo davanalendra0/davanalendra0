@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dava Nalendra</h1>
 <h3 align="center">Front-End Developer learning AI step by step to grow into a future AI Engineer.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center"> <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davanalendra0&label=Profile%20views&color=0e75b6&style=flat" alt="davanalendra0" /> </p>
 
