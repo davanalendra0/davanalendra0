@@ -1,17 +1,31 @@
-<hr>
-<h3 align="center">About Me</h3>
-<hr>
-<p align="justify">Hi! i'm Dava Nalendra from Indonesia and i'm a front end web developer, an enthusiastic student who is passionate about exploring the world of technology. Although i don't have any professional experience yet, i actively create personal projects as practice and a way to develop my skills. Currently, i'm focused on continuing to develop myself and looking for new opportunities to collaborate. Let's make friends and work together! </p>
+<h1 align="center">Hi 👋, I'm Dava Nalendra</h1>
+<h3 align="center">Front-End Developer learning AI step by step to grow into a future AI Engineer.</h3>
 
-<hr>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davanalendra0&label=Profile%20views&color=0e75b6&style=flat" alt="davanalendra0" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=davanalendra0&icon=0&color=13)](https://visitcount.itsvg.in)
+- 🔭 I’m currently not working on **any specific project at the moment, but I'm focusing on studying Artificial Intelligence.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 I’m currently learning **Everything related to AI Engineering.**
+
+- 👯 I’m looking to collaborate on **Web development projects and AI-related projects where I can learn, contribute, and grow.**
+
+- 🤝 I’m looking for help with **Understanding machine learning and AI.**
+
+- 💬 Ask me about **Front-End development (HTML, CSS, JavaScript), or anything related to building simple and clean user interfaces.**
+
+- 📫 How to reach me **davanalendra2@gmail.com**
+
+- ⚡ Fun fact **When I get deeply focused on something, I can forget everything else around me.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/dava-nalendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dava-nalendra" height="30" width="40" /></a>
+<a href="https://instagram.com/@nale.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nale.dev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davanalendra0&show_icons=true&locale=en&layout=compact" alt="davanalendra0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davanalendra0&" alt="davanalendra0" /></p>
