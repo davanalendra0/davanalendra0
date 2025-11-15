@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davanalendra0&label=Profile%20views&color=0e75b6&style=flat" alt="davanalendra0" /> </p>
 
-- 🔭 I’m currently not working on **any specific project at the moment, but I'm focusing on studying Artificial Intelligence.**
-
 - 🌱 I’m currently learning **Everything related to AI Engineering.**
 
-- 👯 I’m looking to collaborate on **Web development projects and AI-related projects where I can learn, contribute, and grow.**
-
-- 🤝 I’m looking for help with **Understanding machine learning and AI.**
-
-- 💬 Ask me about **Front-End development (HTML, CSS, JavaScript), or anything related to building simple and clean user interfaces.**
+- 👨‍💻 All of my projects are available at [https://github.com/davanalendra0](https://github.com/davanalendra0)  
 
 - 📫 How to reach me **davanalendra2@gmail.com**
-
-- ⚡ Fun fact **When I get deeply focused on something, I can forget everything else around me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
