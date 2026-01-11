@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything related to AI Engineering.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davanalendra0](https://github.com/davanalendra0)  
+- 👨‍💻 All of my projects are available at [https://github.com/davanalendra0](https://github.com/davanalendra0) & https://portofolio-nalendra.vercel.app/
 
 - 📫 How to reach me **davanalendra2@gmail.com**
 
