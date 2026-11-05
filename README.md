@@ -3,19 +3,13 @@
 <p align="center"> <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> </p>
 
 ## 📌 About Me
-- 💡 <em>✏️ Front-End Developer learning AI step by step to grow into a future AI Engineer. All of my projects are available at [https://github.com/davanalendra0](https://github.com/davanalendra0) & https://portofolio-nalendra.vercel.app/</em>
+<em>Front-End Developer learning AI step by step to grow into a future AI Engineer. <br> All of my projects are available at [https://github.com/davanalendra0](https://github.com/davanalendra0) & https://portofolio-nalendra.vercel.app/</em>
 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davanalendra0&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="davanalendra0's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=davanalendra0&theme=nightowl&hide_border=true&cache_seconds=86400" alt="davanalendra0's GitHub Streak" width="49%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davanalendra0&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
